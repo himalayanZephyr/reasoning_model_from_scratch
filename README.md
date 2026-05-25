@@ -1,1 +1,1 @@
-# reasoning_model_from_scratch
+Learning about how to build reasoning models from scratch
